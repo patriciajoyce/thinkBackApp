@@ -12,7 +12,7 @@ export default class Categories extends Component {
         		<Content>
                 
                 <H2>Choose A Location</H2>
-                <Button>
+                <Buttonq>
                     <Text>Around The House</Text>
                 </Button>
         
